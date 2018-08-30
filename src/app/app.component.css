@@ -1,0 +1,93 @@
+.container-fluid{
+    width: 100vw;
+    height: 100vh;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.my-navbar{
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+    background: none;
+}
+
+.navbar-nav{
+    margin-right: 0px;
+    padding-left: 50em;  
+}
+
+.nav-link{
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.img-fluid12{
+    
+    width: 120px;
+    height: 80px;
+}
+
+.my-caraousal{
+position: absolute;
+top: 0%;
+}
+
+.input-group{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.wrapper-class1{
+    margin: 50px;
+}
+.img-fluid{
+    width: 100%;
+    height: 600px;
+}
+.img-fluid1{
+    width: 300px;
+    height: 300px;
+}
+.caption{
+    text-align: center;
+}
+.row{
+    margin-bottom: 10px;
+    top: 200px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.thumbnail{
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-right: 20px;
+}
+.h2-text{
+    color: blue;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+.wrapper-footer {
+    
+    background: hsl(197, 10%, 28%);
+    color:white;
+    padding-bottom: 0px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.menu list-arrow{
+    color: white;
+}
+
+.wrapper-footer ul li {
+    list-style: none;
+}
+.footer-info ul li{
+    list-style: none;
+}
